@@ -1,2 +1,5 @@
 # Sample-video
-Video biasa
+
+video - sederhana
+
+ini link nya (Klik saya)[https://eszuri.github.io/Sample-video/]
