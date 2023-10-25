@@ -2,4 +2,4 @@
 
 video - sederhana
 
-ini link nya (Klik saya)[https://eszuri.github.io/Sample-video/]
+ini link nya [Klik saya](https://eszuri.github.io/Sample-video/)
